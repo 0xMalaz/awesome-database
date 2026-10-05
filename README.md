@@ -10,6 +10,7 @@
 - [Graph](#graph)
 - [Vector](#vector)
 - [Search Engines](#search-engines)
+- [Tools](#tools)
 - [Blogs](#blogs)
 - [Research Papers](#research-papers)
 - [Contribute](#contribute)
@@ -73,6 +74,9 @@
 ## Search Engines
 - [Elastic Search](https://www.elastic.co/) - Elasticsearch is a versatile and powerful tool for searching, analyzing, and visualizing data. Its flexibility and scalability make it a valuable asset for organizations dealing with diverse data sources and analytical requirements.
 - [Apache Solr](https://solr.apache.org/) - Apache Solr is an open-source search platform built on Apache Lucene. It is designed for indexing, searching, and analyzing large volumes of text data efficiently. 
+
+## Tools
+
 
 ## Blogs
 - [Exploring the Diversity of Database](https://medium.com/@prasannabrabourame/exploring-the-diversity-of-database-types-and-their-ideal-use-cases-821c1fd642d5) - Exploring the Diversity of Database Types and Their Ideal Use Cases
