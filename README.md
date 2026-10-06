@@ -40,7 +40,6 @@
 - [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 - [CouchDB](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents, JavaScript for MapReduce indexes, and regular HTTP for its API.
 - [Fireproof](https://github.com/fireproof-storage/fireproof) - Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud.
-- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness): Developer-alpha Rust knowledge store with encrypted, append-only records, device sync, and scoped, expiring access through MCP/HTTP.
 
 ## Key-Value
 
@@ -79,6 +78,7 @@
 
 - [QueryBear](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more. Supports PostgreSQL and MySQL.
 - [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records, device sync, and scoped, expiring access through MCP/HTTP.
 
 ## Blogs
 - [Exploring the Diversity of Database](https://medium.com/@prasannabrabourame/exploring-the-diversity-of-database-types-and-their-ideal-use-cases-821c1fd642d5) - Exploring the Diversity of Database Types and Their Ideal Use Cases
