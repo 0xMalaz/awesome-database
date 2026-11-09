@@ -79,6 +79,7 @@
 - [QueryBear](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more. Supports PostgreSQL and MySQL.
 - [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records, device sync, and scoped, expiring access through MCP/HTTP.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter, diff and JSON Schema toolbox that runs in the browser.
 
 ## Blogs
 - [Exploring the Diversity of Database](https://medium.com/@prasannabrabourame/exploring-the-diversity-of-database-types-and-their-ideal-use-cases-821c1fd642d5) - Exploring the Diversity of Database Types and Their Ideal Use Cases
