@@ -79,6 +79,7 @@
 - [QueryBear](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more. Supports PostgreSQL and MySQL.
 - [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records, device sync, and scoped, expiring access through MCP/HTTP.
+- [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) - Free read-only security check of a Supabase Postgres project: 46 checks on RLS, policies, grants, auth and storage settings, with fix SQL for each finding.
 
 ## Blogs
 - [Exploring the Diversity of Database](https://medium.com/@prasannabrabourame/exploring-the-diversity-of-database-types-and-their-ideal-use-cases-821c1fd642d5) - Exploring the Diversity of Database Types and Their Ideal Use Cases
